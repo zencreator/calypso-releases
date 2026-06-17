@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Calypso for Mac</title>
+    <link>https://calypso.zncr.pro/download/mac</link>
+    <description>Updates for Calypso for Mac.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.4.2</title>
+      <link>https://github.com/zencreator/calypso-releases/releases/tag/v0.4.2</link>
+      <pubDate>Wed, 17 Jun 2026 09:38:15 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zencreator/calypso-releases/releases/download/v0.4.2/Calypso.dmg" sparkle:edSignature="hZz93306FQkRw8WHfE7tq8zlQxpvJLSDRt/iWvuCjqY4l4QH1TjqVUVUbM+I3NqfhszC82Lat7feYyLH+zsVDA==" length="28660403" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
