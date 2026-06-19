@@ -6,6 +6,15 @@
     <description>Updates for Calypso for Mac.</description>
     <language>en</language>
     <item>
+      <title>Version 0.5.0</title>
+      <link>https://github.com/zencreator/calypso-releases/releases/tag/v0.5.0</link>
+      <pubDate>Fri, 19 Jun 2026 13:34:25 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zencreator/calypso-releases/releases/download/v0.5.0/Calypso.dmg" sparkle:edSignature="N+vMXlZsvP9jtVD0Fx+23xXBIiqZLyuzxhpt6INZQAHp9z0r+rF6eZXMvUEfLKdoTWMLdEbUCP3Oq1cZJG5QAA==" length="30885882" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.4.2</title>
       <link>https://github.com/zencreator/calypso-releases/releases/tag/v0.4.2</link>
       <pubDate>Wed, 17 Jun 2026 09:38:15 +0000</pubDate>
